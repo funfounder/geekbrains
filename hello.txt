@@ -5,3 +5,4 @@ second line
 hello git again
 hello git rebase
 hello git cherry pick
+hello squash
