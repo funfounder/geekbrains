@@ -3,3 +3,4 @@ another line
 second line
 
 hello git again
+hello git rebase
